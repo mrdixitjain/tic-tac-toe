@@ -1,8 +1,8 @@
 # tic-tac-toe
 
-download this file on your system
+download these files on your system.
 
-to run this, you need to install npm on your system
+to run this, you need to install npm on your system.
 
 after that, use : npm start command to run this.
 
