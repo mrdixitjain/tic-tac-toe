@@ -1,0 +1,12 @@
+body {
+  background-color: #c8c0ff;
+}
+
+.required {
+  border-color: red;
+}
+
+.break {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
