@@ -1,8 +1,10 @@
 # tic-tac-toe
 
-download these files on your system.
+Here, we have implemented tic-tac-toe game.
 
-to run this, you need to install npm on your system.
+To run this project, download these files on your system.
+
+you need to install npm on your system.
 
 after that,
 
